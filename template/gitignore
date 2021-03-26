@@ -1,0 +1,5 @@
+.DS_Store
+.npmrc
+build
+coverage
+node_modules

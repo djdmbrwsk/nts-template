@@ -1,0 +1,21 @@
+{
+    "name": "nts-template",
+    "version": "0.0.0",
+    "description": "The default and simplest template for create-nts-app.",
+    "author": "djdmbrwsk@gmail.com",
+    "license": "MIT",
+    "keywords": [
+        "node",
+        "typescript",
+        "app",
+        "template",
+        "nts",
+        "nts-template"
+    ],
+    "files": [
+        "template",
+        "template.json"
+    ],
+    "devDependencies": {},
+    "dependencies": {}
+}
